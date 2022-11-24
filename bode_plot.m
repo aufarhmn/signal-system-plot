@@ -1,3 +1,6 @@
+pkg load symbolic;
+pkg load control;
+
 clc;
 close all;
 
